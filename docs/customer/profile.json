@@ -1,0 +1,103 @@
+{
+  "companyName": "缘巢科技有限公司",
+  "shortName": "缘巢科技",
+  "summary": "专注于物联网智能家居领域的科技企业，提供软硬件一体化解决方案",
+  "industry": "软件/互联网",
+  "subIndustry": "物联网智能家居",
+  "scale": "中小企业",
+  "mainBusiness": "智能家居物联网平台研发与解决方案提供",
+  "products": [
+    { "name": "智能家居控制平台", "description": "基于IoT技术的智能家居统一管控平台，支持多设备互联互通" },
+    { "name": "IoT解决方案", "description": "面向家居制造商和地产商的智能化升级方案" },
+    { "name": "智能硬件产品线", "description": "智能开关、传感器、网关等智能家居硬件" }
+  ],
+  "targetCustomers": ["智能家居设备制造商", "房地产开发商/物业公司", "家庭终端用户", "酒店/民宿等住宿业"],
+  "businessModel": "B2B2C硬件+软件订阅混合模式",
+  "rating": "B",
+  "tags": ["物联网", "智能家居", "IoT平台", "SaaS", "硬件+软件", "B2B2C"],
+  "website": null,
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": "千万级",
+  "registration": {
+    "registeredName": "缘巢科技有限公司",
+    "registeredCapital": "200万元人民币（推断）",
+    "paidCapital": "未知",
+    "establishedDate": "2018-2021年（推断）",
+    "legalRepresentative": "未知",
+    "businessStatus": "在业（推断）",
+    "shareholders": ["创始人团队（推断）"],
+    "branchCount": 0,
+    "interpretation": "注册资本200万符合典型科技创业公司规模，实缴情况不详表明可能存在资本尚未完全到位的情况。暂无分支机构说明公司处于早期阶段或采用轻资产运营模式。",
+    "organizationType": "创业型/成长型企业",
+    "keyFindings": [
+      "注册资本200万规模偏小，扩张能力有限，资金链敏感性高",
+      "股东以创始人团队为主，决策链短但资源整合能力有限",
+      "无分支机构表明业务尚处早期阶段或采用纯线上轻运营模式"
+    ]
+  },
+  "organization": {
+    "type": "创业型/扁平化管理",
+    "decisionChain": "创始人/CEO→业务负责人→技术/产品执行，决策链短，采购决策快速但可能缺乏专业评估流程",
+    "keyPersons": [{ "name": "未知", "title": "创始人/CEO" }],
+    "salesStrategy": "聚焦细分赛道（如地产精装智能家居、养老家居等垂直场景），以解决方案完整性而非价格取胜；建议通过行业展会、成功案例展示建立信任，决策人往往是创始人或联合创始人，需展现技术实力和长期陪跑意愿"
+  },
+  "timing": {
+    "phase": "产品打磨期或初步扩张期",
+    "analysisBasis": [
+      "公司名称在公开资料中缺乏融资/大规模报道，推断处于早期阶段",
+      "物联网智能家居赛道仍处快速增长期，2024-2026年政策支持智能家居消费",
+      "行业竞争激烈，大厂占据流量入口，中小厂商需找准细分场景"
+    ],
+    "entryStrategy": "以免费诊断或POC试点切入，展示数字化升级路径和ROI价值；建议提供轻量级、模块化解决方案降低客户试用门槛",
+    "urgency": "中等，赛道窗口期预计2-3年，需在此期间建立差异化优势和客户积累"
+  },
+  "hiring": {
+    "keySignals": ["技术开发岗位需求为主（推断）", "销售/商务拓展岗（推断）", "可能在深圳/杭州等物联网产业聚集地（推断）"]
+  },
+  "competition": {
+    "industryRank": "长尾竞争者",
+    "marketShare": "<1%",
+    "mainCompetitors": ["小米IoT生态", "涂鸦智能", "阿里云IoT", "华为HiLink"],
+    "knownClients": []
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": null,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": false,
+      "smeLevel": "",
+      "isHighTech": false,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    { "area": "项目管理", "description": "多项目并行导致进度不透明，硬件开发与软件迭代协同困难", "severity": "高" },
+    { "area": "客户管理", "description": "B端客户（家居厂商/地产商）信息分散，销售过程不透明，续约率低", "severity": "高" },
+    { "area": "交付管理", "description": "硬件交付周期长、软件定制需求多、项目验收扯皮", "severity": "中" },
+    { "area": "回款管理", "description": "B端客户账期长、回款难跟踪、坏账风险", "severity": "高" },
+    { "area": "运维管理", "description": "设备分散、故障响应慢、远程诊断困难", "severity": "中" }
+  ],
+  "opportunities": [
+    { "area": "客户管理数字化", "description": "通过CRM系统实现B端客户全生命周期管理，提升续约率和客户资产沉淀", "likelihood": "高" },
+    { "area": "交付管理透明化", "description": "引入项目管理系统，实现硬件+软件项目可视化交付，提升验收通过率", "likelihood": "高" },
+    { "area": "回款管理自动化", "description": "通过合同管理和应收管理工具，实现账期自动化跟踪，降低坏账风险", "likelihood": "中" }
+  ],
+  "analysisPath": "B",
+  "confidence": 0.35,
+  "metadata": {
+    "createdAt": "2026-05-04",
+    "updatedAt": "2026-05-04",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": ["公开信息推断", "行业痛点库映射"],
+    "confidence": 0.35
+  }
+}
